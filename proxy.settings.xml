@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="172.29.20.9" />
+    <option name="PROXY_PORT" value="8088" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="localhost;127.0.0.1;%ComputerName%;172.0.0.0-172.255.255.255;10.170.0.0-10.170.255.255;134.99.*.*;130.30.*.*;10.180.10.255;*.si-tech.com.cn;*.teamshub.com;192.168.*.*" />
+  </component>
+</application>

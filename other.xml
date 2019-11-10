@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$APPLICATION_HOME_DIR$/intellij-java-google-style.xml" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="mySvnCommandLine" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\TortoiseSVN" />
+  </component>
+</application>
