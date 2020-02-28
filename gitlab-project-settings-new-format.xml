@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="SAwe6z1HrrwG9u6Z_XvL" />
+          <option name="apiUrl" value="http://git.si-tech.com.cn:9002/" />
+          <option name="repositoryUrl" value="git.si-tech.com.cn" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
