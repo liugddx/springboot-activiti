@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'G:\工具\apache-maven-3.5.3-bin\repository\org\apache\dubbo\dubbo\2.7.4.1\dubbo-2.7.4.1-sources.jar!\org\apache\dubbo\rpc\Protocol.java [Maven: org.apache.dubbo:dubbo:2.7.4.1]'" />
-    <option name="defaultScopeName" value="File 'G:\工具\apache-maven-3.5.3-bin\repository\org\apache\dubbo\dubbo\2.7.4.1\dubbo-2.7.4.1-sources.jar!\org\apache\dubbo\rpc\Protocol.java [Maven: org.apache.dubbo:dubbo:2.7.4.1]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'G:\工具\apache-maven-3.5.3-bin\repository\org\apache\dubbo\dubbo\2.7.4.1\dubbo-2.7.4.1-sources.jar!\org\apache\dubbo\rpc\Protocol.java [Maven: org.apache.dubbo:dubbo:2.7.4.1]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
